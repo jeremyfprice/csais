@@ -278,13 +278,13 @@ p > img {
 }
 
 .site-avatar {
-  text-align: center;
+  /*text-align: center;
   width: 1024px;
-  height: 205px;
-  /*float: left;
+  height: 205px;*/
+  float: left;
   width: 70px;
   height: 70px;
-  margin-right: 15px;*/
+  margin-right: 15px;
 
   @include mobile {
     float: none;
