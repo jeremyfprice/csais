@@ -8,10 +8,12 @@ permalink: /about/
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-| Granularity | Data |
-|---|---|
-| Multi-State Region | Political-Historical: Christian nationalism index. |
-| State | *Demographic:* General population; Jewish population; Religious diversity index.\ *Political-Historical:* Statewide hate groups. |
+  * **Multi-State Region**
+    * Political-Historical: Christian nationalism index.
+  * **State**
+    * *Demographic:* General population; Jewish population; Religious diversity index.
+    * *Political-Historical:* Statewide hate groups.
+
 County	•	Demographic: General population; Jewish population.
 •	Geographic: Adjacency to other incident-counties; Household income; Measures of centrality (e.g., betweenness, closeness, degree, and eigenvector); Rural-Urban Continuum Code designation.
 •	Political-Historical: Partisan lean; Presidential voting trends.
